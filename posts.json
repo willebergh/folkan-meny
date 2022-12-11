@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Måndag",
+    "date": "1/1/2020",
+    "slug": "v49",
+    "content": "<p>Vegetarisk sheperds pie med betor, linser och cheddarost 110kr<br>Rostad kycklinglårfilé med apelsinsky, smålök och persiljebakad potatis 120kr<br>Pytt i panna med stekt ägg och inlagda rödbetor 120kr<br>Fetaostsallad med paprika, gurka och syrad lök samt örtdressing 120kr<br>Caesarsallad med kyckling, rödlök, bacon, krutonger och Grana padano 120kr</p>"
+  },
+  {
+    "title": "Tisdag",
+    "date": "1/2/2020",
+    "slug": "tisdag",
+    "content": "<p>Majsplättar med marinerad grönkål och rostad potatis 110kr<br>Ugnsbakad fisk med ägg, pepparrot och brynt smör<br>serveras med kokt potatis 135kr<br>Raggmunk med stekt rimmat fläsk och lingon 120kr<br>Fetaostsallad med paprika, gurka och syrad lök samt örtdressing 120kr<br>Caesarsallad med kyckling, rödlök, bacon, krutonger och Grana padano 120kr</p>"
+  },
+  {
+    "title": "Onsdag",
+    "date": "1/3/2020",
+    "slug": "post-three",
+    "content": "<p>Okonomiyaki (Japansk kålpannkaka) serveras med koriander och chilidressing 110kr<br>Fisk och blåmusselgryta serveras med vitlöksbröd 135kr<br>Kryddig nötfärsbiff serveras med avjaryoghurt, grönsaksalsa och ris 120kr<br>Dagens sallad 120kr<br>Caesarsallad med kyckling, rödlök, bacon, krutonger och Grana padano 120kr</p>"
+  },
+  {
+    "title": "Torsdag",
+    "date": "1/4/2020",
+    "slug": "torsdag",
+    "content": "<p>Vegetarisk sheperds pie med betor, linser och cheddarost 110kr<br>Rostad kycklinglårfilé med apelsinsky, smålök och persiljebakad potatis 120kr<br>Pytt i panna med stekt ägg och inlagda rödbetor 120kr<br>Fetaostsallad med paprika, gurka och syrad lök samt örtdressing 120kr<br>Caesarsallad med kyckling, rödlök, bacon, krutonger och Grana padano 120kr</p>"
+  },
+  {
+    "title": "Fredag",
+    "date": "1/4/2020",
+    "slug": "fredag",
+    "content": "<p>Vegetarisk nudelwok med hoisinsås, vårlök och ägg 110kr<br>Pocherad fisk på lutfiskens vis med kryddpeppar, ärtor och bacon samt kokt potatis 135kr<br>Biffstek på högrev med karamelliserad lök, rödvinssås och potatispuré 120kr<br>Dagenssallad 120kr<br>Caesarsallad med kyckling, rödlök, bacon, krutonger och Grana padano 120kr</p>"
+  }
+]
